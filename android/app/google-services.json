@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "16427161860",
+    "project_id": "personalitytestflutter",
+    "storage_bucket": "personalitytestflutter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16427161860:android:230829ce2a7d4c828b1851",
+        "android_client_info": {
+          "package_name": "com.example.personalitytest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe0FuoHO1gg8RCffZLfVVbI9JnnXnZz3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
